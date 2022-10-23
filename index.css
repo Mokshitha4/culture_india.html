@@ -28,6 +28,7 @@
 }
 .festival-bg-container {
   background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/02/Astonishing-Blue-Flower-Background.jpeg");
+  background-color: #25b1cc;
   height: 480vh;
   background-size: cover;
   padding: 24px;
